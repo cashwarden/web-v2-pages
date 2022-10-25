@@ -372,5 +372,10 @@
   "app.category.default": "Default",
   "app.category.sort": "Sort",
   "app.category.keywords": "Keywords",
-  "app.category.ledger": "Ledger"
+  "app.category.ledger": "Ledger",
+  "app.tag.name": "Name",
+  "app.tag.cloud": "Tag Cloud",
+  "app.tag.update": "Update Tag",
+  "app.tag.create": "Create Tag",
+  "app.tag.times": "Times"
 }
