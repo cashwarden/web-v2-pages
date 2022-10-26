@@ -377,5 +377,18 @@
   "app.tag.cloud": "Tag Cloud",
   "app.tag.update": "Update Tag",
   "app.tag.create": "Create Tag",
-  "app.tag.times": "Times"
+  "app.tag.times": "Times",
+  "app.wish-list.name": "Name",
+  "app.wish-list.create": "Create Wish List",
+  "app.wish-list.update": "Update Wish List",
+  "app.wish-list.status": "Status",
+  "app.wish-list.status.pending": "Pending",
+  "app.wish-list.status.completed": "Completed",
+  "app.wish-list.status.cancelled": "Cancelled",
+  "app.wish-list.remark": "Remark",
+  "app.wish-list.created_at": "Created At",
+  "app.wish-list.updated_at": "Updated At",
+  "app.wish-list.currency_amount": "Currency Amount"
+
+
 }
