@@ -388,7 +388,26 @@
   "app.wish-list.remark": "Remark",
   "app.wish-list.created_at": "Created At",
   "app.wish-list.updated_at": "Updated At",
-  "app.wish-list.currency_amount": "Currency Amount"
+  "app.wish-list.currency_amount": "Currency Amount",
+  "app.budget.name": "Name",
+  "app.budget.create": "Create Budget",
+  "app.budget.update": "Update Budget",
+  "app.budget.direction": "Direction",
+  "app.budget.ledger_id": "Ledger",
+  "app.budget.category_ids": "Category",
+  "app.budget.period": "Period",
+  "app.budget.amount": "Amount",
+  "app.budget.rollover": "Rollover",
+  "app.budget.init_amount": "Init Amount",
+  "app.budget.include_tags": "Include Tags",
+  "app.budget.exclude_tags": "Exclude Tags",
+  "app.budget.started_at": "Started At",
+  "app.budget.ended_at": "Ended At",
+  "app.budget.progress": "Progress",
+  "app.budget.already-used": "Already Used",
+  "app.budget.budget": "Budget",
+  "app.budget.remaining-amount": "Remaining Amount"
+
 
 
 }
