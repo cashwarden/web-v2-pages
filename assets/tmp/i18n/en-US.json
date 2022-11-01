@@ -406,8 +406,17 @@
   "app.budget.progress": "Progress",
   "app.budget.already-used": "Already Used",
   "app.budget.budget": "Budget",
-  "app.budget.remaining-amount": "Remaining Amount"
-
-
-
+  "app.budget.remaining-amount": "Remaining Amount",
+  "app.analysis.amount": "Amount",
+  "app.analysis.total": "Total",
+  "app.analysis.surplus": "Surplus",
+  "app.analysis.category-statistics": "Category Statistics",
+  "app.analysis.category-chart": "Category Chart",
+  "app.analysis.category-records": "Category Records",
+  "app.analysis.maximum-5-expense-records": "Maximum 5 Expense Records",
+  "app.analysis.day-chart": "Day Chart",
+  "app.analysis.month-chart": "Month Chart",
+  "app.analysis.year-chart": "Year Chart",
+  "app.transactions.quick-bookkeeping": "Quick bookkeeping",
+  "app.transactions.adjust-balance": "Adjust Balance"
 }
