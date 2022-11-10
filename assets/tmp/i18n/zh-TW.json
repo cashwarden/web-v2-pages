@@ -48,7 +48,7 @@
   "app.password-forgot.submit-success": "重置密碼郵件發送成功，請查看郵箱。",
   "app.verify-email.msg": "請驗證您的郵箱",
   "app.verify-email.activation-email": "我們剛剛向 {{email}} 發送了一封電子郵件。單擊電子郵件中的鏈接以驗證您的帳戶。",
-  "app.verify-email.back-home": "回到家",
+  "app.verify-email.back-home": "返回",
   "app.verify-email.resend-email": "重發郵件",
   "app.verify-email.update-email": "更新郵件",
   "app.verify-email.view-mailbox": "查看郵箱",
