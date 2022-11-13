@@ -292,7 +292,7 @@
   "app.wish-list.status": "Status",
   "app.wish-list.status.pending": "Pending",
   "app.wish-list.status.completed": "Completed",
-  "app.wish-list.status.cancelled": "Cancelled",
+  "app.wish-list.status.canceled": "Canceled",
   "app.wish-list.remark": "Remark",
   "app.wish-list.created_at": "Created At",
   "app.wish-list.updated_at": "Updated At",
