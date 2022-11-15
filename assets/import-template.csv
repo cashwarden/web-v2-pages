@@ -1,3 +1,3 @@
-Date,Ledger,Category,Type,Amount,Tags,Description,Remark,Account,To Account
-2020-07-31,daily,Food and drink,expense,10,Food,yesterday food 10,,Card2
-2020-07-31,daily,transfer,transfer,15,,,,Card1,Card2
+Date,Ledger,Category,Type,Amount,Currency,Tags,Description,Remark,Account,To Account
+2020-07-31,daily,Food and drink,expense,10,USD,Food,yesterday food 10,,Card2,
+2020-07-31,daily,transfer,transfer,15,CNY,,,,Card1,Card2
